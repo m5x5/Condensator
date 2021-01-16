@@ -1,0 +1,23 @@
+{
+  "name": "Physics",
+  "version": "1.0.0",
+  "description": "Create a simulation where you have a particle flying through a condensator.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/matter-js": "^0.14.9",
+    "matter-js": "^0.15.0"
+  },
+  "devDependencies": {
+    "@types/p5": "^0.9.1",
+    "p5": "^1.2.0"
+  }
+}
